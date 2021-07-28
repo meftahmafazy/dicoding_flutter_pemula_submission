@@ -231,15 +231,12 @@ class _CalculatorState extends State<Calculator>{
                               }else{
                                 _bmiModel = BMIModel(bmi: _bmi, isNormal: false, details: "Kamu Obesitas", hasil :hasil );
                               }
-
-
                             });
                             Navigator.push(
                                 context, MaterialPageRoute(
                                 builder: (context) => ResultsPage(),
                               settings: RouteSettings(arguments: _bmiModel)
                             ),
-
                             );
                           },
                           child:
@@ -283,7 +280,3 @@ class _CalculatorState extends State<Calculator>{
     );
   }
 }
-
-
-
-
