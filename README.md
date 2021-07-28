@@ -1,6 +1,6 @@
-# dicoding_submission
+# Dicoding_Submission
 
-A new Flutter application.
+Submission projects for "Flutter untuk Pemula" class in dicoding
 
 ## Getting Started
 
