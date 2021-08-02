@@ -1,6 +1,12 @@
-# Dicoding_Submission
+## Dicoding_Submission
 
 Submission projects for "Flutter untuk Pemula" class in dicoding
+
+# Screenshots
+<p align="center">
+  <img width="200" src="screenshots/bmi1.png">
+  <img width="200" src="screenshots/bmi2.png">
+</p>
 
 ## Getting Started
 
